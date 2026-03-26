@@ -1,0 +1,17 @@
+AuthorName: ООО РУФОРМ 1905
+Categories:
+    - Tools
+CurrentVersion: 1.0.0
+CurrentVersionCode: 1
+Description: |
+    Greenlowersium is a Browser Auxiliary Program
+
+    <b>Features</b>
+
+    - View
+IssueTracker: ""
+License: MIT
+Name: GreenLowersium
+SourceCode: https://github.com/Rutube22/GreenLowersium
+Summary: Greenlowersium is a Browser Auxiliary Program
+WebSite: ""
