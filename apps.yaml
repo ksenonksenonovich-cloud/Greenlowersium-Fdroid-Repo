@@ -1,2 +1,14 @@
+greenlowersium:
+  git: https://github.com/Rutube22/GreenLowersium
+  name: "GreenLowersium"
+  description: |
+    Greenlowersium is a Browser Auxiliary Program
+
+    <b>Features</b>
+
+    - View
+
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
+  categories: 
+    - Tools
