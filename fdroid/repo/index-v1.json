@@ -1,9 +1,12 @@
 {
   "repo": {
-    "timestamp": 1743603360000, 
+    "timestamp": 1743603360000,
     "version": 20002,
-    "name": "GreenLowersium (Unofficial F-Droid Repo)",
+    "name": "GreenLowersium Unofficial F-Droid Repo",
     "icon": "icon.png",
     "address": "https://githubusercontent.com",
-    "description": "неофициальный репозиторий обновлений для браузера [GreenLowersium]. Конфиденциальность и скорость."
+    "description": "Официальный репозиторий обновлений для браузера GreenLowersium. Конфиденциальность и скорость."
   },
+  "apps": [],
+  "packages": {}
+}
